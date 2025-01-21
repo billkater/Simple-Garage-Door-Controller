@@ -1,12 +1,20 @@
 show_name: true
 show_icon: true
-type: button
+type: custom:button-card
 tap_action:
   action: call-service
   service: switch.turn_on
   target:
     entity_id: switch.shop_garage_door_relay
   data: {}
-icon: mdi:garage
+
 entity: binary_sensor.shop_garage_door_reed_switch
+icon: mdi:garage
+state:
+  - value: 'on'
+    color: red  # Icon color when the door is open
+    icon: mdi:garage-open
+  - value: 'off'
+    color: green  # Icon color when the door is closed
+    icon: mdi:garage
 name: Shop Door
