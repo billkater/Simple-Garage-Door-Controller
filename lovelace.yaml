@@ -1,0 +1,12 @@
+show_name: true
+show_icon: true
+type: button
+tap_action:
+  action: call-service
+  service: switch.turn_on
+  target:
+    entity_id: switch.shop_garage_door_relay
+  data: {}
+icon: mdi:garage
+entity: binary_sensor.shop_garage_door_reed_switch
+name: Shop Door
