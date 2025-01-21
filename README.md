@@ -21,3 +21,9 @@ Speaker push connector https://a.co/d/49wgl9A
 ![Image](https://github.com/user-attachments/assets/8e334cec-2914-4fa9-bd4d-b35e7be052df)
 
 ![Image](https://github.com/user-attachments/assets/11066af1-4d7a-431d-9156-cacff5ffd2fa)
+
+![Image](https://github.com/user-attachments/assets/7a508996-2d23-4607-a0bf-601dc082d30d)
+
+![Image](https://github.com/user-attachments/assets/d3c50580-d49c-42dc-a49b-01fd6f5ec736)
+
+![Image](https://github.com/user-attachments/assets/7f01fef2-2255-45a4-9e65-2f0f089db3d6)
