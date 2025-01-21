@@ -16,3 +16,8 @@ The print files are on thingiverse https://www.thingiverse.com/thing:6914096
 ESP32 Development Board WiFi+Bluetooth Module Ultra-Low Power Consumption Dual Core NodeMCU-32S ESP32-WROOM-32D 32U 30Pin Board https://a.aliexpress.com/_mOBEMAL
 
 Speaker push connector https://a.co/d/49wgl9A
+
+
+![Image](https://github.com/user-attachments/assets/8e334cec-2914-4fa9-bd4d-b35e7be052df)
+
+![Image](https://github.com/user-attachments/assets/11066af1-4d7a-431d-9156-cacff5ffd2fa)
